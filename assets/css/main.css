@@ -1142,7 +1142,7 @@ input, select, textarea {
 			transition-delay: 0.75s;
 			filter: blur(2px);
   			-webkit-filter: blur(2px);
-			background-image:  url("../img/background.jpg");
+			background-image:  url("https://drive.google.com/uc?id=112QQjZG6DsEFVc3Na4lNnMKrt-pJ6ils");
 			background-size: auto;
 			background-position: center;
 			background-repeat: no-repeat;
@@ -1160,7 +1160,7 @@ input, select, textarea {
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
 		    filter: blur(2px);
             -webkit-filter: blur(2px);
-			background-image: url("../img/background.jpg");
+			background-image: url("https://drive.google.com/uc?id=112QQjZG6DsEFVc3Na4lNnMKrt-pJ6ils");
 			background-position: center;
 			background-size: cover;
 			background-repeat: no-repeat;
