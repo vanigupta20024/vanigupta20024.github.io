@@ -1,1 +1,1 @@
-Digital Portfolio of Vani Gupta :shipit:
+Digital Portfolio of Vani Gupta 
